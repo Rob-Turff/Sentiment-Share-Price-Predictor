@@ -9,7 +9,7 @@ stocks = {"TSLA": "tesla", "AMZN": "amazon", "FB": "facebook", "MSFT": "microsof
           "NVDA": "nvidia"}
 news_sites = ["forbes.com", "seekingalpha.com", "marketwatch.com", "reuters.com", "nasdaq.com", "bloomberg.com",
               "businessinsider.com", "yahoo.com", "investopedia.com", "smarteranalyst.com", "wsj.com"]
-subscription_key = "55318ca60a4e4472b545708f3518fe38"
+subscription_key = "[ADD KEY HERE]"
 assert subscription_key
 
 search_url = "https://api.bing.microsoft.com/v7.0/news/search"
